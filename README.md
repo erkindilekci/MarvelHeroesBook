@@ -12,9 +12,9 @@
 
 # UI
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel1.png" width="300">
-    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel2.png" width="300">
-    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel3.png" width="300">
+    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel1.png" width="225">
+    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel2.png" width="225">
+    <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/marvel3.png" width="225">
 </div>
 
 ## Contents Credits
